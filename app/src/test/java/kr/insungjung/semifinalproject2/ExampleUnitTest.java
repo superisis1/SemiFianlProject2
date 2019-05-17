@@ -1,4 +1,4 @@
-package kr.insungjung.semifianlproject2;
+package kr.insungjung.semifinalproject2;
 
 import org.junit.Test;
 

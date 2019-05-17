@@ -1,4 +1,4 @@
-package kr.insungjung.semifianlproject2.utils;
+package kr.insungjung.semifinalproject2.utils;
 
 import android.content.Context;
 import android.util.Log;

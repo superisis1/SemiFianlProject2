@@ -1,4 +1,4 @@
-package kr.insungjung.semifianlproject2;
+package kr.insungjung.semifinalproject2;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
